@@ -12,7 +12,6 @@ const LoginScreens = () => {
   };
 
   const handleForgotPassword = () => {
-    // Add your forgot password logic here
     console.log('Forgot password pressed');
   };
 
