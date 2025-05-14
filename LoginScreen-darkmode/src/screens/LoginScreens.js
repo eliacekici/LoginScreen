@@ -63,7 +63,6 @@ const LoginScreens = () => {
         </View>
       </View>
 
-      {/* Forgot Password Text - Added Here */}
       <TouchableOpacity onPress={handleForgotPassword} style={styles.forgotPassword}>
         <Text style={styles.forgotPasswordText}>Forgot password?</Text>
       </TouchableOpacity>
